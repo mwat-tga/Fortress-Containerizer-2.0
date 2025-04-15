@@ -321,13 +321,13 @@ if uploaded_file:
     st.markdown(f"**Uploaded File:** {uploaded_file.name}")
     if st.button('🚀 Process File', key='process_file_btn'):
     with st.spinner('Processing your file...'):
-    try:
-    meta_df = load_product_metadata()
-    df = load_and_prepare_data(uploaded_file, meta_df)
-    summary, container_weights = force_rotate_units(df, interleave_mode)
-    output = updated_export_with_summary(summary, container_weights, interleave_mode, auto_topoff)
-    except Exception as e:
-                st.error(f"Something went wrong during processing: {e}")
+        try:
+            meta_df = load_product_metadata()
+            df = load_and_prepare_data(uploaded_file, meta_df)
+            summary, container_weights = force_rotate_units(df, interleave_mode)
+            output = updated_export_with_summary(summary, container_weights, interleave_mode, auto_topoff)
+        except Exception as e:
+            st.error(f"Something went wrong during processing: {e}")
 distribution_mode = st.radio(
     "📦 Distribution Mode",
     ["Evenly Spread SKUs", "Group Similar Products"]
@@ -917,7 +917,7 @@ if uploaded_file:
             summary, container_weights = force_rotate_units(df, interleave_mode)
             output = updated_export_with_summary(summary, container_weights, interleave_mode, auto_topoff)
         except Exception as e:
-                st.error(f"Something went wrong during processing: {e}")
+            st.error(f"Something went wrong during processing: {e}")
 distribution_mode = st.radio(
     "📦 Distribution Mode",
     ["Evenly Spread SKUs", "Group Similar Products"]
@@ -1216,4 +1216,4 @@ if uploaded_file:
             summary, container_weights = force_rotate_units(df, interleave_mode)
             output = updated_export_with_summary(summary, container_weights, interleave_mode, auto_topoff)
         except Exception as e:
-                st.error(f"Something went wrong during processing: {e}")
+            st.error(f"Something went wrong during processing: {e}")
