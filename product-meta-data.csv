@@ -1,0 +1,405 @@
+Product Code,Description,Manufacturer_SKU,Unit Qty,Weight per piece,product_line,category,color
+FTACFB,"1"" Fortress Accents Forstner Bit",52501040,8,0.24255,Accents,Hardware,
+FTACLEDADP,Fortress Accents LED Adapter Non-PNP to PNP,52502500,100,0.1,Accents,Lighting,
+FTACLEDCLK,Fortress Accents LED Cap Light Kit PNP,52500000P,32,0.378984375,Accents,Lighting,
+FTACLEDCLM,Fortress Accents LED Cap Light Lit Module PNP,52500010P,36,0.11,Accents,Lighting,
+FTACLEDFF8,Fortress Accents LED Female to Female Connector PNP (8pcs),52502200,100,0.1,Accents,Lighting,
+FTACLEDFS,Fortress Accents LED Female 6-Way Splitter PNP,52502400,100,0.1,Accents,Lighting,
+FTACLEDFT8,Fortress Accents LED Female T-Splice PNP (8pcs),52502300,100,0.1,Accents,Lighting,
+FTACLEDGR2,"2"" Fortress Accents LED Glow Ring PNP",52502020P,16,0.4,Accents,Lighting,
+FTACLEDGR3,"3"" Fortress Accents LED Glow Ring PNP",52503030P,16,0.53,Accents,Lighting,
+FTACLEDSC,Fortress Accents LED Smart Controler w/ Remote,52506101,100,1.19,Accents,Lighting,
+FTACLEDSM6BS,Fortress Accents LED Surface Mount Light (6pcs) Black Sand,52504008P,16,1.03,Accents,Lighting,BKSND
+FTACLEDT60,Fortress Accents LED Transformer 60 Watt,52506100,24,1.19,Accents,Lighting,
+FTACLEDT601,Fortress Accents LED Transformer 60 Watt (Type 1 Plug),52506110,24,1.19,Accents,Lighting,
+FTACLEDVPL2BS,Fortress Accents LED Vertical Post Light PNP (2pcs) Black Sand,52500068P,16,0.49,Accents,Lighting,BKSND
+FTACLEDW10,10' Fortress Accents LED Light Wire PNP,52502110,100,0.1,Accents,Lighting,
+FTACLEDW15,15' Fortress Accents LED Light Wire PNP,52502115,100,0.1,Accents,Lighting,
+FTACLEDW20,20' Fortress Accents LED Light Wire PNP,52502120,100,0.1,Accents,Lighting,
+FTACLEDW5,5' Fortress Accents LED Light Wire PNP,52502105,100,0.1,Accents,Lighting,
+FTACLEDWG100,100' Fortress Accents LED 18-2 Gauge Wire,52502000,8,3.34,Accents,Lighting,
+FTACPC2PABZ,"2"" Fortress Accents Flat Pyramid Post Cap Antique Bronze",52500026,48,0.33075,Accents,Cap,ABZ
+FTACPC2PBS,"2"" Fortress Accents Flat Pyramid Post Cap Black Sand",52500028,48,0.33075,Accents,Cap,BKSND
+FTACPC2PGB,"2"" Fortress Accents Flat Pyramid Post Cap Gloss Black",52500020,48,0.33075,Accents,Cap,GBLK
+FTACPC3PABZ,"3"" Fortress Accents Flat Pyramid Post Cap Antique Bronze",52500036,48,0.46305,Accents,Cap,ABZ
+FTACPC3PBS,"3"" Fortress Accents Flat Pyramid Post Cap Black Sand",52500038,48,0.46305,Accents,Cap,BKSND
+FTACPC3PGB,"3"" Fortress Accents Flat Pyramid Post Cap Gloss Black",52500030,48,0.46305,Accents,Cap,GBLK
+FTACPC3PWHT,"3"" Fortress Accents Flat Pyramid Post Cap White",52500031,48,0.46305,Accents,Cap,WHT
+FTADAAAABZ,Fortress ADA Angle Adjuster Antique Bronze,50501030,25,0.4851,ADA,Fittings,GBLK
+FTADAAABS,Fortress ADA Angle Adjuster Black Sand,50501031,25,0.4851,ADA,Fittings,WHT
+FTADAAAGB,Fortress ADA Angle Adjuster Gloss Black,50501036,25,0.4851,ADA,Fittings,ABZ
+FTADAAAWHT,Fortress ADA Angle Adjuster White,50501038,25,0.4851,ADA,Fittings,BKSND
+FTADAB2ABZ,Fortress ADA BRKT (2pcs) Antique Bronze,50500916,25,1.2,ADA,Fittings,ABZ
+FTADAB2BS,1Fortress ADA BRKT (2pcs) Black Sand,50500918,25,1.2,ADA,Fittings,BKSND
+FTADAB2GB,Fortress ADA BRKT (2pcs) Gloss Black,50500910,25,1.2,ADA,Fittings,GBLK
+FTADAB2WHT,Fortress ADA BRKT (2pcs) White,50500911,25,1.2,ADA,Fittings,WHT
+FTADACP2ABZ,Fortress ADA Cap Plug (2pcs) Antique Bronze,50500036,25,0.2205,ADA,Hardware,ABZ
+FTADACP2BS,Fortress ADA Cap Plug (2pcs) Black Sand,50500038,25,0.2205,ADA,Hardware,BKSND
+FTADACP2GB,Fortress ADA Cap Plug (2pcs) Gloss Black,50500030,25,0.2205,ADA,Hardware,GBLK
+FTADACP2WHT,Fortress ADA Cap Plug (2pcs) White,50500031,25,0.2205,ADA,Hardware,WHT
+FTADAEL180ABZ,Fortress ADA End Loop 180 Degree Antique Bronze,50501920,10,5.35,ADA,Fittings,GBLK
+FTADAEL180BS,Fortress ADA End Loop 180 Degree Black Sand,50501921,10,5.35,ADA,Fittings,WHT
+FTADAEL180GB,Fortress ADA End Loop 180 Degree Gloss Black,50501926,10,5.35,ADA,Fittings,ABZ
+FTADAEL180WHT,Fortress ADA End Loop 180 Degree White,50501928,10,5.35,ADA,Fittings,BKSND
+FTADAHR8ABZ,8' Fortress ADA Handrail Antique Bronze,50500946,50,11,ADA,Rail,ABZ
+FTADAHR8BS,8' Fortress ADA Handrail Black Sand,50500948,50,11,ADA,Rail,BKSND
+FTADAHR8GB,8' Fortress ADA Handrail Gloss Black,50500940,50,11,ADA,Rail,GBLK
+FTADAHR8WHT,8' Fortress ADA Handrail White,50500941,50,11,ADA,Rail,WHT
+FTADAICBABZ,Fortress ADA Inside Corner BRKT Antique Bronze,50500966,25,0.63,ADA,Fittings,ABZ
+FTADAICBBS,Fortress ADA Inside Corner BRKT Black Sand,50500968,25,0.63,ADA,Fittings,BKSND
+FTADAICBGB,Fortress ADA Inside Corner BRKT Gloss Black,50500960,25,0.63,ADA,Fittings,GBLK
+FTADAICBWHT,Fortress ADA Inside Corner BRKT White,50500961,25,0.63,ADA,Fittings,WHT
+FTADAR90ABZ,Fortress ADA Return 90 Degree Antique Bronze,50500926,10,0.41895,ADA,Fittings,ABZ
+FTADAR90BS,Fortress ADA Return 90 Degree Black Sand,50500928,10,0.41895,ADA,Fittings,BKSND
+FTADAR90GB,Fortress ADA Return 90 Degree Gloss Black,50500920,10,0.41895,ADA,Fittings,GBLK
+FTADAR90WHT,Fortress ADA Return 90 Degree White,50500921,10,0.41895,ADA,Fittings,WHT
+FTADASPABZ,Fortress ADA Splice Antique Bronze,50500970,25,0.11025,ADA,Fittings,GBLK
+FTADASPBS,Fortress ADA Splice Black Sand,50500971,25,0.09,ADA,Fittings,WHT
+FTADASPGB,Fortress ADA Splice Gloss Black,50500976,25,0.09,ADA,Fittings,ABZ
+FTADASPWHT,Fortress ADA Splice White,50500978,25,0.1,ADA,Fittings,BKSND
+FTADATBABZ,Fortress ADA Termination BRKT Antique Bronze,50500956,10,0.41895,ADA,Fittings,ABZ
+FTADATBBS,Fortress ADA Termination BRKT Black Sand,50500958,10,0.41895,ADA,Fittings,BKSND
+FTADATBGB,Fortress ADA Termination BRKT Gloss Black,50500950,10,0.41895,ADA,Fittings,GBLK
+FTADATBSABZ,Fortress ADA Straight Tremination BRKT Antique Bronze,50500066,10,0.22,ADA,Fittings,ABZ
+FTADATBSBS,Fortress ADA Straight Tremination BRKT Black Sand,50500068,10,0.41895,ADA,Fittings,BKSND
+FTADATBSGB,Fortress ADA Straight Tremination BRKT Gloss Black,50500060,10,0.22,ADA,Fittings,GBLK
+FTADATBSWHT,Fortress ADA Straight Tremination BRKT White,50500061,10,0.22,ADA,Fittings,WHT
+FTADATBWHT,Fortress ADA Termination BRKT White,50500951,10,0.41895,ADA,Fittings,WHT
+FTAL13PC3PGB,"3"" Fortress Al13 Plus Flat Pyramid Post Cap Gloss Black",51500040,25,0.20286,AL13 PLUS,Cap,GBLK
+FTAL13PEET,Fortress Al13 Plus Evolve External Template,51546030,5,3,AL13 PLUS,Hardware,
+FTAL13PERJC4BS,Fortress Al13 Plus Evolve Rail Joint Cover (4pcs) Black Sand,51501008,25,0.13,AL13 PLUS,Fittings,BKSND
+FTAL13PERJC4GB,Fortress Al13 Plus Evolve Rail Joint Cover (4pcs) Gloss Black,51501000,25,0.13,AL13 PLUS,Fittings,GBLK
+FTAL13PERJC4WHT,Fortress Al13 Plus Evolve Rail Joint Cover (4pcs) White,51501001,25,0.13,AL13 PLUS,Fittings,WHT
+FTAL13PERJCS4BS,Fortress Al13 Plus Evolve Stair Rail Joint Cover (4pcs) Black Sand,51502028,25,0.49,AL13 PLUS,Fittings,BKSND
+FTAL13PERJCS4GB,Fortress Al13 Plus Evolve Stair Rail Joint Cover (4pcs) Gloss Black,51502020,25,0.48,AL13 PLUS,Fittings,GBLK
+FTAL13PERJCS4WHT,Fortress Al13 Plus Evolve Stair Rail Joint Cover (4pcs) White,51502021,25,0.49,AL13 PLUS,Fittings,WHT
+FTAL13PEVBA4BS,Fortress Al13 Plus Evolve Angle BRKT (4pcs) Black Sand,51500418,25,3.24135,AL13 PLUS,Fittings,BKSND
+FTAL13PEVBA4GB,Fortress Al13 Plus Evolve Angle BRKT (4pcs) Gloss Black,51500410,25,3.22,AL13 PLUS,Fittings,GBLK
+FTAL13PEVBA4WHT,Fortress Al13 Plus Evolve Angle BRKT (4pcs) White,51500411,25,3.24135,AL13 PLUS,Fittings,WHT
+FTAL13PEVBE4BS,Fortress Al13 Plus Evolve External BRKT (4pcs) Black Sand,51500218,25,1.1907,AL13 PLUS,Fittings,BKSND
+FTAL13PEVBE4GB,Fortress Al13 Plus Evolve External BRKT (4pcs) Gloss Black,51500210,25,1.1907,AL13 PLUS,Fittings,GBLK
+FTAL13PEVBE4WHT,Fortress Al13 Plus Evolve External BRKT (4pcs) White,51500211,25,1.1907,AL13 PLUS,Fittings,WHT
+FTAL13PEVBEL4BS,Fortress Al13 Plus Evolve External BRKT LG (4pcs) Black Sand,51500518,25,1.32,AL13 PLUS,Fittings,BKSND
+FTAL13PEVBEL4GB,Fortress Al13 Plus Evolve External BRKT LG (4pcs) Gloss Black,51500510,25,1.32,AL13 PLUS,Fittings,GBLK
+FTAL13PEVBEL4WHT,Fortress Al13 Plus Evolve External BRKT LG (4pcs) White,51500511,25,1.32,AL13 PLUS,Fittings,WHT
+FTAL13PEVBI4BS,Fortress Al13 Plus Evolve Internal BRKT (4pcs) Black Sand,51500118,25,1.1907,AL13 PLUS,Fittings,BKSND
+FTAL13PEVBI4GB,Fortress Al13 Plus Evolve Internal BRKT (4pcs) Gloss Black,51500110,25,1.06,AL13 PLUS,Fittings,GBLK
+FTAL13PEVBI4WHT,Fortress Al13 Plus Evolve Internal BRKT (4pcs) White,51500111,25,1.1907,AL13 PLUS,Fittings,WHT
+FTAL13PEVBS4BS,Fortress Al13 Plus Evolve Stair BRKT (4pcs) Black Sand,51500318,25,4.38795,AL13 PLUS,Fittings,BKSND
+FTAL13PEVBS4GB,Fortress Al13 Plus Evolve Stair BRKT (4pcs) Gloss Black,51500310,25,3.31,AL13 PLUS,Fittings,GBLK
+FTAL13PEVBS4WHT,Fortress Al13 Plus Evolve Stair BRKT (4pcs) White,51500311,25,4.38795,AL13 PLUS,Fittings,WHT
+FTAL13PEVP24BS,Fortress Al13 Plus Evolve P2 BRKT (4pcs) Black Sand,51500618,25,0.7497,AL13 PLUS,Fittings,BKSND
+FTAL13PEVP24GB,Fortress Al13 Plus Evolve P2 BRKT (4pcs) Gloss Black,51500610,25,0.66,AL13 PLUS,Fittings,GBLK
+FTAL13PEVP24WHT,Fortress Al13 Plus Evolve P2 BRKT (4pcs) White,51500611,25,0.7497,AL13 PLUS,Fittings,WHT
+FTAL13PEVP2S4BS,Fortress Al13 Plus Evolve P2 BRKT Stair (4pcs) Black Sand,51500718,25,0.81585,AL13 PLUS,Fittings,BKSND
+FTAL13PEVP2S4GB,Fortress Al13 Plus Evolve P2 BRKT Stair (4pcs) Gloss Black,51500710,25,0.75,AL13 PLUS,Fittings,GBLK
+FTAL13PEVP2S4WHT,Fortress Al13 Plus Evolve P2 BRKT Stair (4pcs) White,51500711,25,0.75,AL13 PLUS,Fittings,WHT
+FTAL13PG38BS,"38""x35.5"" Fortress Al13 Plus Gate Black Sand",51138358,10,12.33,AL13 PLUS,Gate,BKSND
+FTAL13PG38GB,"38""x35.5"" Fortress Al13 Plus Gate Gloss Black",51138350,10,12.33,AL13 PLUS,Gate,GBLK
+FTAL13PG38WHT,"38""x35.5"" Fortress Al13 Plus Gate White",51138351,10,12.33,AL13 PLUS,Gate,WHT
+FTAL13PG40BS,"40""x34.5"" Fortress Al13 Plus Gate Black Sand",51140358,10,12.8,AL13 PLUS,Gate,BKSND
+FTAL13PG40GB,"40""x34.5"" Fortress Al13 Plus Gate Gloss Black",51140350,10,12.8,AL13 PLUS,Gate,GBLK
+FTAL13PG40WHT,"40""x34.5"" Fortress Al13 Plus Gate White",51140351,10,12.9,AL13 PLUS,Gate,WHT
+FTAL13PGU38BS,"38"" Fortress Al13 Plus Gate Uprights (2pcs) Black Sand",51538058,20,7.8498,AL13 PLUS,Gate,BKSND
+FTAL13PGU38GB,"38"" Fortress Al13 Plus Gate Uprights (2pcs) Gloss Black",51538050,20,7.98,AL13 PLUS,Gate,GBLK
+FTAL13PGU38WHT,"38"" Fortress Al13 Plus Gate Uprights (2pcs) White",51538051,20,7.8498,AL13 PLUS,Gate,WHT
+FTAL13PGU40BS,"40"" Fortress Al13 Plus Gate Uprights (2pcs) Black Sand",51540058,20,8.1,AL13 PLUS,Gate,BKSND
+FTAL13PGU40GB,"40"" Fortress Al13 Plus Gate Uprights (2pcs) Gloss Black",51540050,20,8.1,AL13 PLUS,Gate,GBLK
+FTAL13PGU40WHT,"40"" Fortress Al13 Plus Gate Uprights (2pcs) White",51540051,20,8.1,AL13 PLUS,Gate,WHT
+FTAL13PP345BS,"3""x45.5"" Fortress Al13 Plus Post w/Base Cover Black Sand",51345018,49,9.9225,AL13 PLUS,Post,BKSND
+FTAL13PP345GB,"3""x45.5"" Fortress Al13 Plus Post w/Base Cover Gloss Black",51345010,49,9.9225,AL13 PLUS,Post,GBLK
+FTAL13PP345WHT,"3""x45.5"" Fortress Al13 Plus Post w/Base Cover White",51345011,49,9.9225,AL13 PLUS,Post,WHT
+FTAL13PP355BS,"3""x55"" Fortress Al13 Plus Post Black Sand",51355028,49,9.79,AL13 PLUS,Post,BKSND
+FTAL13PP355GB,"3""x55"" Fortress Al13 Plus Post Gloss Black",51355020,49,9.79,AL13 PLUS,Post,GBLK
+FTAL13PP355WHT,"3""x55"" Fortress Al13 Plus Post White",51355021,49,9.79,AL13 PLUS,Post,WHT
+FTAL13PPC3PWHT,"3"" Fortress Al13 Plus Flat Pyramid Post Cap White",51500041,25,0.20286,AL13 PLUS,Cap,WHT
+FTAL13PPVR6BS,6' Fortress Al13 Plus PV Rails (2pcs) Black Sand,51172098,20,9.06255,AL13 PLUS,Railing,BKSND
+FTAL13PPVRF6BS,6' Fortress Al13 Plus PV FGP Rails (2pcs) Black Sand,55111608,10,5,AL13 PLUS,Railing,BKSND
+FTAL13PPVRFG2BS,6' Fortress Al13 Plus PV FGP Gaskets (2pcs),55502600,50,0.33,Pure View,Hardware,
+FTAL13PPVRFS2BS,Fortress Al13 Plus PV FGP Spacers (2pcs) Black Sand,55503788,100,0.08,Pure View,Hardware,BKSND
+FTAL13PPVRS6BS,6' Fortress Al13 Plus PV Stair Rails (2pcs) Black Sand,51272098,20,9.15,AL13 PLUS,Railing,BKSND
+FTAL13PRT386BS,"38""x6' Fortress Al13 Plus Rail Traditional Black Sand",51138698,35,19.73475,AL13 PLUS,Infill,BKSND
+FTAL13PRT386GB,"38""x6' Fortress Al13 Plus Rail Traditional Gloss Black",51138690,35,16.73,AL13 PLUS,Infill,GBLK
+FTAL13PRT386WHT,"38""x6' Fortress Al13 Plus Rail Traditional White",51138691,35,19.73475,AL13 PLUS,Infill,WHT
+FTAL13PRT388BS,"38""x8' Fortress Al13 Plus Rail Traditional Black Sand",51138938,35,25.578,AL13 PLUS,Infill,BKSND
+FTAL13PRT388GB,"38""x8' Fortress Al13 Plus Rail Traditional Gloss Black",51138930,35,22.42,AL13 PLUS,Infill,GBLK
+FTAL13PRT388WHT,"38""x8' Fortress Al13 Plus Rail Traditional White",51138931,35,25.578,AL13 PLUS,Infill,WHT
+FTAL13PRT406BS,"40""x6' Fortress Al13 Plus Rail Traditional Black Sand",51140698,35,24.18885,AL13 PLUS,Infill,BKSND
+FTAL13PRT406GB,"40""x6' Fortress Al13 Plus Rail Traditional Gloss Black",51140690,35,17.3,AL13 PLUS,Infill,GBLK
+FTAL13PRT406WHT,"40""x6' Fortress Al13 Plus Rail Traditional White",51140691,35,24.18885,AL13 PLUS,Infill,WHT
+FTAL13PRT408BS,"40""x8' Fortress Al13 Plus Rail Traditional Black Sand",51140938,35,26.2395,AL13 PLUS,Infill,BKSND
+FTAL13PRT408GB,"40""x8' Fortress Al13 Plus Rail Traditional Gloss Black",51140930,35,23.03,AL13 PLUS,Infill,GBLK
+FTAL13PRT408WHT,"40""x8' Fortress Al13 Plus Rail Traditional White",51140931,35,26.2395,AL13 PLUS,Infill,WHT
+FTAL13PRTA346BS,"34""x6' Fortress Al13 Plus Rail Traditional ADJ Black Sand",51234698,35,18.67635,AL13 PLUS,Infill,BKSND
+FTAL13PRTA346GB,"34""x6' Fortress Al13 Plus Rail Traditional ADJ Gloss Black",51234690,35,16.13,AL13 PLUS,Infill,GBLK
+FTAL13PRTA346WHT,"34""x6' Fortress Al13 Plus Rail Traditional ADJ White",51234691,35,18.67635,AL13 PLUS,Infill,WHT
+FTAL13PRTA348BS,"34""x8' Fortress Al13 Plus Rail Traditional ADJ Black Sand",51234728,35,23.7258,AL13 PLUS,Infill,BKSND
+FTAL13PRTA348GB,"34""x8' Fortress Al13 Plus Rail Traditional ADJ Gloss Black",51234720,35,23.7258,AL13 PLUS,Infill,GBLK
+FTAL13PRTA348WHT,"34""x8' Fortress Al13 Plus Rail Traditional ADJ White",51234721,35,23.7258,AL13 PLUS,Infill,WHT
+FTAL13PRTA388BS,"38""x8' Fortress Al13 Plus Rail Traditional ADJ Black Sand",51238728,35,22.49,AL13 PLUS,Infill,BKSND
+FTAL13PRTA388GB,"38""x8' Fortress Al13 Plus Rail Traditional ADJ Gloss Black",51238720,35,22.49,AL13 PLUS,Infill,GBLK
+FTAL13PRTA388WHT,"38""x8' Fortress Al13 Plus Rail Traditional ADJ White",51238721,35,22.49,AL13 PLUS,Infill,WHT
+FTEV1212LEDGER,"2""x6"" 12' Fortress Evolution S-Ledger 12 OC",182112141,20,41.2335,Evolution,Evolution,
+FTEV1220LEDGER,"2""x6"" 20' Fortress Evolution S-Ledger 12 OC",182120141,20,64.386,Evolution,Evolution,
+FTEV12LEDGER,"2""x6"" 12' Fortress Evolution S-Ledger",182012141,20,44.21025,Evolution,Evolution,
+FTEV1612LEDGER,"2""x6"" 12' Fortress Evolution S-Ledger 16 OC",182212141,20,42.22575,Evolution,Evolution,
+FTEV1620LEDGER,"2""x6"" 20' Fortress Evolution S-Ledger 16 OC",182220141,20,66.591,Evolution,Evolution,
+FTEV20LEDGER,"2""x6"" 20' Fortress Evolution S-Ledger",182020141,20,69.8985,Evolution,Evolution,
+FTEV21108BEAM,"2""x11"" 8' Fortress Evolution Beam",184108161,12,57.44025,Evolution,Evolution,
+FTEV21112BEAM,"2""x11"" 12' Fortress Evolution Beam",184112161,12,83.01825,Evolution,Evolution,
+FTEV21116BEAM,"2""x11"" 16' Fortress Evolution Beam",184116161,12,107.163,Evolution,Evolution,
+FTEV21120BEAM,"2""x11"" 20' Fortress Evolution Beam",184120161,12,133.29225,Evolution,Evolution,
+FTEV260812RIM,"2""x6"" 8' Fortress Evolution U-Rim Joist 12OC",185108141,24,23.1525,Evolution,Evolution,
+FTEV260816RIM,"2""x6"" 8' Fortress Evolution U-Rim Joist 16OC",185208141,24,23.1525,Evolution,Evolution,
+FTEV2608RIM,"2""x6"" 8' Fortress Evolution U-Rim Joist",185008141,24,23.5935,Evolution,Evolution,
+FTEV2608RIMC,"2""x6"" 8' Fortress Evolution Curved Rim Joist",185308161,24,18.7425,Evolution,Evolution,
+FTEV2612JOIST,"2""x6"" 12' Fortress Evolution Joist",181112161,28,44.541,Evolution,Evolution,
+FTEV2614JOIST,"2""x6"" 14' Fortress Evolution Joist",181114161,28,51.26625,Evolution,Evolution,
+FTEV2616JOIST,"2""x6"" 16' Fortress Evolution Joist",181116161,28,57.88125,Evolution,Evolution,
+FTEV2618JOIST,"2""x6"" 18' Fortress Evolution Joist",181118161,28,64.49625,Evolution,Evolution,
+FTEV2620JOIST,"2""x6"" 20' Fortress Evolution Joist",181120161,28,71.77275,Evolution,Evolution,
+FTEV308POST,"3.5""X3.5"" 8' Fortress Evolution Post",285108111,20,49.6125,Evolution,Evolution,
+FTEV310POST,"3.5""X3.5"" 10' Fortress Evolution Post",186110111,20,60.858,Evolution,Evolution,
+FTEV508POST,"5.5""X5.5"" 8' Fortress Evolution Post",285208121,18,69.0606,Evolution,Evolution,
+FTEV520POST,"5.5""X5.5"" 20' Fortress Evolution Post",186220121,18,166.0365,Evolution,Evolution,
+FTEV708POST,"7""X7"" 8' Fortress Evolution Post",285308121,15,95.18985,Evolution,Evolution,
+FTEVBLK12,Fortress Evolution Blocking 12OC,188122001,25,0.321048,Evolution,Evolution,
+FTEVBLK16,Fortress Evolution Blocking 16OC,188162001,25,0.441,Evolution,Evolution,
+FTEVBLTK14,"14"" Fortress Evolution Bolt Kit",183141402,15,2.205,Evolution,Evolution,
+FTEVBLTK3,"3"" Fortress Evolution Bolt Kit",183140302,35,0.504,Evolution,Evolution,
+FTEVBLTK9,"9"" Fortress Evolution Bolt Kit",183140902,25,1.43325,Evolution,Evolution,
+FTEVBLTSS210,"2"" Fortress Evolution Spacer/Squash Bolt (10pcs)",183080201,25,0.3528,Evolution,Evolution,
+FTEVBLTTG5164,"5/16"" Fortress Evolution Toggle Bolt (4pcs)",183131400,25,0.77175,Evolution,Evolution,
+FTEVBRKT45,Fortress Evolution 45 DEG BRKT ,183451401,25,1.577898,Evolution,Evolution,
+FTEVBRKTBPD3,"3.5"" Fortress Evolution DBL Beam/Post BRKT",183261601,12,1.400175,Evolution,Evolution,
+FTEVBRKTBPD5,"5.5"" Fortress Evolution DBL Beam/Post BRKT",183171601,12,3.41775,Evolution,Evolution,
+FTEVBRKTBPS3,"3.5"" Fortress Evolution SNGL Beam/Post BRKT",183161601,12,1.42884,Evolution,Evolution,
+FTEVBRKTBPS5,"5.5"" Fortress Evolution SNGL Beam/Post BRKT",183151601,12,3.32955,Evolution,Evolution,
+FTEVBRKTCS2,Fortress Evolution CS BRKT (2pcs),283041601,25,0.41895,Evolution,Evolution,
+FTEVBRKTF1010,Fortress Evolution F10 BRKT (10pcs),183041601,10,0.773955,Evolution,Evolution,
+FTEVBRKTF30,Fortress Evolution F30 BRKT,183092141,50,0.55125,Evolution,Evolution,
+FTEVBRKTF50,Fortress Evolution F50 BRKT,183021601,50,0.310905,Evolution,Evolution,
+FTEVBRKTHD,Fortress Evolution DBL Hanger BRKT,183202001,10,0.760725,Evolution,Evolution,
+FTEVBRKTHS,Fortress Evolution SNGL Hanger BRKT,183102001,10,0.760725,Evolution,Evolution,
+FTEVBRKTLB2,Fortress Evolution LAT Bracing BRKT (2pcs),283031601,16,1.8081,Evolution,Evolution,
+FTEVBRKTLG,Fortress Evolution Ledger BRKT ,183011401,25,1.311975,Evolution,Evolution,
+FTEVBRKTPA3,"3.5"" Fortress Evolution Post/Anchor BRKT",283060701,8,8.103375,Evolution,Evolution,
+FTEVBRKTPA5,"5.5"" Fortress Evolution Post/Anchor BRKT",283070701,4,17.2872,Evolution,Evolution,
+FTEVBRKTPA7,"7"" Fortress Evolution Post/Anchor BRKT",283080701,4,23.1084,Evolution,Evolution,
+FTEVBRKTPP3,"3.5"" Fortress Evolution Post/Pier BRKT",183351601,9,2.145465,Evolution,Evolution,
+FTEVBRKTRAF,Fortress Evolution Rafter Hanger BRKT,283051601,50,0.72765,Evolution,Evolution,
+FTEVBRKTRJ,Fortress Evolution Rim Joist BRKT,183031801,25,0.63504,Evolution,Evolution,
+FTEVCAPB,Fortress Evolution Beam Cap,183112001,25,0.3528,Evolution,Evolution,
+FTEVCAPJ,Fortress Evolution Joist Cap,183062001,25,0.1764,Evolution,Evolution,
+FTEVCAPP3,"3.5"" Fortress Evolution Post Cap",283012001,32,0.5788125,Evolution,Evolution,
+FTEVCAPP5,"5.5"" Fortress Evolution Post Cap",283092001,20,0.80703,Evolution,Evolution,
+FTEVCAPP7,"7"" Fortress Evolution Post Cap",283102001,20,3.13992,Evolution,Evolution,
+FTEVCAPPR,Fortress Evolution Purlin Cap,283022001,48,0.3528,Evolution,Evolution,
+FTEVDBT4,4' Fortress Evolution DBL Beam Track (2pcs),184204161,24,13.78125,Evolution,Evolution,
+FTEVLBP10,"2""X2"" 10' Fortress Evolution LAT Brace/Purlin",282011001,84,14.97195,Evolution,Evolution,
+FTEVLBP14,"2""X2"" 14' Fortress Evolution LAT Brace/Purlin",282011401,84,20.3742,Evolution,Evolution,
+FTEVPERGM1014,10'x14' Fortress Evolution Pergola Modern Kit,286011014,1,808.9704,Evolution,Evolution,
+FTEVPERGM1212,12'x12' Fortress Evolution Pergola Modern Kit,286011212,1,829.4328,Evolution,Evolution,
+FTEVPERGM812,8'x12' Fortress Evolution Pergola Modern Kit,286010812,1,708.79725,Evolution,Evolution,
+FTEVRAFTA,Fortress Evolution Arched Rafter Tail,288011601,10,5.3802,Evolution,Evolution,
+FTEVRAFTA45,Fortress Evolution Arched Rafter Tail 45 Degree,288021601,10,5.4684,Evolution,Evolution,
+FTEVSC75250B,Fortress Evolution Self Tapping Screw (250pcs) Black,183990341,20,2.205,Evolution,Evolution,
+FTEVSTBRKT7,"7"" Fortress Evolution Stair BRKT",189107161,10,2.8665,Evolution,Evolution,
+FTEVSTBRKT775,"7-3/4"" Fortress Evolution Stair BRKT",189134161,10,3.087,Evolution,Evolution,
+FTEVSTBRKTA,Fortress Evolution Stair Anchor BRKT,189100161,30,0.882,Evolution,Evolution,
+FTEVSTBRKTADJ,Fortress Evolution ADJ Stair BRKT,189199141,10,4.29975,Evolution,Evolution,
+FTEVSTRP12,Fortress Evolution Strap 12OC,187104201,12,2.75625,Evolution,Evolution,
+FTEVSTRP16,Fortress Evolution Strap 16OC,187204201,12,2.75625,Evolution,Evolution,
+FTEVSTRP8,"8"" Fortress Evolution Strap",183078161,100,0.206388,Evolution,Evolution,
+FTEVSTSTRP,Fortress Evolution Stair Strap,189223181,24,1.21275,Evolution,Evolution,
+FTEVSTTR,"48"" Fortress Evolution Stair Tray",189348161,4,9.72405,Evolution,Evolution,
+FTEVSTTRADJ,"48"" Fortress Evolution ADJ Stair Tray",189448161,4,15.9201,Evolution,Evolution,
+FTFE26 VSCRS408BS,"40""x8' Fortress V-Series CR-Vertical Stair Black Sand",57240808,30,57.33,FE26,Infill,BKSND
+FTFE26ATRC8ABZ,8' Fortress FE26 ATR Colonial Round Antique Bronze,53405086,50,7.497,FE26,Railing,ABZ
+FTFE26ATRC8BS,8' Fortress FE26 ATR Colonial Round Black Sand,53405088,50,7.497,FE26,Railing,BKSND
+FTFE26ATRC8GB,8' Fortress FE26 ATR Colonial Round Gloss Black,53405080,50,5.94,FE26,Railing,GBLK
+FTFE26ATRF6BS,6' Fortress Fe26 ATR Flat Black Sand,57513608,1,3.94695,FE26,Fittings,BKSND
+FTFE26ATRF8BS,8' Fortress Fe26 ATR Flat Black Sand,57513808,1,4.6305,FE26,Fittings,BKSND
+FTFE26BSS14BS,"1.25"" Fortress Fe26 Stair Simplified BRKT (4pcs) Black Sand",53505068,12,3.59415,FE26,Fittings,BKSND
+FTFE26BSS4BS,"1"" Fortress Fe26 Stair Simplified BRKT (4pcs) Black Sand",53504068,12,3.0429,FE26,Fittings,BKSND
+FTFE26BU14BS,"1.25"" Fortress Fe26 Univ. BRKT (4pcs) Black Sand",53505008,25,1.38915,FE26,Fittings,BKSND
+FTFE26BU4ABZ,"1"" Fortress Fe26 Univ. BRKT (4pcs) Antique Bronze",53504006,25,1.12455,FE26,Fittings,ABZ
+FTFE26BU4BS,"1"" Fortress Fe26 Univ. BRKT (4pcs) Black Sand",53504008,25,1.12455,FE26,Fittings,BKSND
+FTFE26BU4GB,"1"" Fortress FE26 Univ. BRKT (4pcs) Gloss Black",650036,25,1.12455,FE26,Fittings,GBLK
+FTFE26BUAA14BS,"1.25"" Fortress Fe26 Univ. Angle Adapator BRKT (4pcs) Black Sand",53505018,25,0.99225,FE26,Fittings,BKSND
+FTFE26BUAA4ABZ,"1"" Fortress Fe26 Univ. Angle Adapator BRKT (4pcs) Antique Bronze",53504016,25,0.68355,FE26,Fittings,ABZ
+FTFE26BUAA4BS,"1"" Fortress Fe26 Univ. Angle Adapator BRKT (4pcs) Black Sand",53504018,25,0.694575,FE26,Fittings,BKSND
+FTFE26BUAA4GB,"1"" Fortress FE26 Univ. Angle Adapator BRKT (4pcs) Gloss Black",650039,25,0.68355,FE26,Fittings,GBLK
+FTFE26CB14AABZ,"1"" Fortress Fe26 Collar ADJ BRKT (4pcs) Antique Bronze",53504036A,16,1.43325,FE26,Fittings,ABZ
+FTFE26CB14ABZ,"1"" Fortress Fe26 Collar BRKT (4pcs) Antique Bronze",53504026A,22,0.85995,FE26,Fittings,ABZ
+FTFE26CB14AGB,"1"" Fortress Fe26 Collar ADJ BRKT (4pcs) Gloss Black",650038A,16,1.43325,FE26,Fittings,GBLK
+FTFE26CB14BS,"1"" Fortress Fe26 Collar BRKT (4pcs) Black Sand",53504028A,22,0.85995,FE26,Fittings,BKSND
+FTFE26CB14GB,"1"" Fortress Fe26 Collar BRKT (4pcs) Gloss Black",650037A,22,0.85995,FE26,Fittings,GBLK
+FTFE26CB14zABS,"1"" Fortress Fe26 Collar ADJ BRKT (4pcs) Black Sand",53504038A,16,1.43325,FE26,Fittings,BKSND
+FTFE26CB14zASBS,"1"" Fortress Fe26 Collar ADJ Stair BRKT (4pcs) Black Sand",53504048A,16,1.43325,FE26,Fittings,BKSND
+FTFE26CB14zASGB,"1"" Fortress Fe26 Collar ADJ Stair BRKT (4pcs) Gloss Black",650048A,16,1.43325,FE26,Fittings,GBLK
+FTFE26CRC14BS,"1.25"" Fortress Fe26 Cap Rail Clip (4pcs) Black Sand",57505058,25,0.9261,FE26,Hardware,BKSND
+FTFE26CRC4ABZ,"1"" Fortress Fe26 Cap Rail Clip (4pcs) Antique Bronze",53504056,25,0.9261,FE26,Hardware,ABZ
+FTFE26CRC4BS,"1"" Fortress Fe26 Cap Rail Clip (4pcs) Black Sand",53504058,25,0.9261,FE26,Hardware,BKSND
+FTFE26CRC4GB,"1"" Fortress FE26 Cap Rail Clip (4pcs) Gloss Black",640185,25,0.93,FE26,Hardware,GBLK
+FTFE26G40ABS,"40""x34.5"" Fortress FE26 Gate Axis Horizontal Black Sand",53040358,4,25.3,FE26,Gate,BKSND
+FTFE26G40BS,"40""x34.5"" Fortress FE26 Gate Black Sand",53140358,4,22.05,FE26,Gate,BKSND
+FTFE26G40UBS,"40"" Fortress Fe26 Gate Uprights (2pcs) Black Sand",53540058,4,9.46,FE26,Gate,BKSND
+FTFE26GU38ABZ,"38"" Fortress FE26 Gate Uprights (2pcs) Antique Bronze",53138056,4,8.82,FE26,Gate,ABZ
+FTFE26GU38BS,"38"" Fortress FE26 Gate Uprights (2pcs) Black Sand",53138058,4,8.82,FE26,Gate,BKSND
+FTFE26GU38GB,"38"" Fortress FE26 Gate Uprights (2pcs) Gloss Black",53138050,4,9.3,FE26,Gate,GBLK
+FTFE26HSCR344BS,"34""x4' Fortress H-Series Rail CR-Horizontal Black Sand",57134418,30,51.97185,Cable Rail,Infill,BKSND
+FTFE26HSCR346BS,"34""x6' Fortress H-Series Rail CR-Horizontal Black Sand",57134618,30,53.1405,Cable Rail,Infill,BKSND
+FTFE26HSCR348BS,"34""x8' Fortress H-Series Rail CR-Horizontal Black Sand",57134818,30,57.33,Cable Rail,Infill,BKSND
+FTFE26HSCR404BS,"40""x4' Fortress H-Series Rail CR-Horizontal Black Sand",57140418,30,57.33,Cable Rail,Infill,BKSND
+FTFE26HSCR406BS,"40""x6' Fortress H-Series Rail CR-Horizontal Black Sand",57140618,30,56.1834,Cable Rail,Infill,BKSND
+FTFE26HSCR408BS,"40""x8' Fortress H-Series Rail CR-Horizontal Black Sand",57140818,30,60.7698,Cable Rail,Infill,BKSND
+FTFE26HSCR40GBS,"40""x34.5"" Fortress H-Series Gate CR-Horizontal Black Sand",57540498,1,47.69415,Cable Rail,Gate,
+FTFE26HSCRISBS,Fortress H-Series CR-Horizontal I-Support Black Sand,57504248,25,0.46305,Cable Rail,Fittings,BKSND
+FTFE26HSCRISSBS,Fortress H-Series CR-Horizontal I-Support Stair Black Sand,57505248,25,0.68355,Cable Rail,Fittings,BKSND
+FTFE26HSCRS348BS,"34""x8' Fortress H-Series CR-Horizontal Stair Black Sand",57234088,30,59.535,Cable Rail,Infill,BKSND
+FTFE26HSCRS408BS,"40""x8' Fortress H-Series CR-Horizontal Stair Black Sand",57240088,30,63.063,Cable Rail,Infill,BKSND
+FTFE26HSCRWC,Fortress H-Series CR-Horizontal Wire Cutters,57500000,1,1.5,Cable Rail,Hardware,
+FTFE26P245ABZ,"2""x45.5"" Fortress FE26 Post w/Base Cover Antique Bronze",53302476,90,11.35575,FE26,Post,ABZ
+FTFE26P245BS,"2""x45.5"" Fortress FE26 Post w/Base Cover Black Sand",53302478,90,11.35575,FE26,Post,BKSND
+FTFE26P245GB,"2""x45.5"" Fortress FE26 Post w/Base Cover Gloss Black",53302470,90,11.35575,FE26,Post,GBLK
+FTFE26P255ABZ,"2""x55"" Fortress FE26 Post Antique Bronze",53355156,50,11.8188,FE26,Post,ABZ
+FTFE26P255BS,"2""x55"" Fortress FE26 Post Black Sand",53355158,50,11.8188,FE26,Post,BKSND
+FTFE26P255GB,"2""x55"" Fortress FE26 Post Gloss Black",53355150,50,11.8188,FE26,Post,GBLK
+FTFE26P345ABZ,"3""x45.5"" Fortress FE26 Post w/Base Cover Antique Bronze",53303476,56,14.2443,FE26,Post,ABZ
+FTFE26P345BS,"3""x45.5"" Fortress FE26 Post w/Base Cover Black Sand",53303478,56,14.2443,FE26,Post,BKSND
+FTFE26P345GB,"3""x45.5"" Fortress FE26 Post w/Base Cover Gloss Black",53303470,56,14.2443,FE26,Post,GBLK
+FTFE26P349GB,"3""x49"" Fortress FE26 Post Gloss Black",53349160,50,12.21,FE26,Post,GBLK
+FTFE26P355ABZ,"3""x55"" Fortress FE26 Post Antique Bronze",53355166,50,13.8915,FE26,Post,ABZ
+FTFE26P355BS,"3""x55"" Fortress FE26 Post Black Sand",53355160,50,13.9,FE26,Post,GBLK
+FTFE26P355GB,"3""x55"" Fortress FE26 Post Gloss Black",53355168,50,13.8915,FE26,Post,BKSND
+FTFE26PC245BS,"2""x45.5"" Fortress FE26 Corner Post w/UB04 Black Sand",53362458,48,12.2598,FE26,Corner Post,BKSND
+FTFE26PC2PDABZ,"2"" Fortress FE26 Pressed Dome Cap Antique Bronze",53502106,48,0.1323,FE26,Cap,ABZ
+FTFE26PC2PDBS,"2"" Fortress FE26 Pressed Dome Cap Black Sand",53502108,48,0.1323,FE26,Cap,BKSND
+FTFE26PC2PDGB,"2"" Fortress FE26 Pressed Dome Cap Gloss Black",53502100,48,0.1323,FE26,Cap,GBLK
+FTFE26PC345BS,"3""x45.5"" Fortress FE26 Corner Post w/UB04 Black Sand",53363458,49,15.89805,FE26,Corner Post,BKSND
+FTFE26PC3PDABZ,"3"" Fortress FE26 Pressed Dome Cap Antique Bronze",53503106,48,0.19845,FE26,Cap,ABZ
+FTFE26PC3PDBS,"3"" Fortress FE26 Pressed Dome Cap Black Sand",53503108,48,0.19845,FE26,Cap,BKSND
+FTFE26PC3PDGB,"3"" Fortress FE26 Pressed Dome Cap Gloss Black",53503100,48,0.19845,FE26,Cap,GBLK
+FTFE26PE245BS,"2""x45.5"" Fortress FE26 End Post w/UB04 Black Sand",53352458,48,11.8188,FE26,Post,BKSND
+FTFE26PE345BS,"3""x45.5"" Fortress FE26 End Post w/UB04 Black Sand",53353458,49,15.435,FE26,Post,BKSND
+FTFE26PL245BS,"2""x45.5"" Fortress FE26 Line Post w/UB04 Black Sand",53342458,48,12.3,FE26,Line Post,BKSND
+FTFE26PL345BS,"3""x45.5"" Fortress FE26 Line Post w/UB04 Black Sand",53343458,49,15.89805,FE26,Line Post,BKSND
+FTFE26PM40BS,"40"" Fortress Fe26 Merch Rack w/Post & UB04 Black Sand",53640228,1,1733,FE26,Merchandising,BKSND
+FTFE26PVRB6BS,6' Fortress FE26 PV Baluster Rails (2pcs) Black Sand,55505028,20,12.81105,FE26 Pure View,Railing,BKSND
+FTFE26PVRS6BS,6' Fortress FE26 PV Baluster Stair Rails (2pcs) Black Sand,55505018,20,12.81105,FE26 Pure View,Railing,BKSND
+FTFE26RA346BS,"34""x6' Fortress FE26 Rail Axis Horizontal Black Sand",53834708,40,30.8,FE26,Infill,BKSND
+FTFE26RA348BS,"34""x8' Fortress FE26 Rail Axis Horizontal Black Sand",53834948,40,37.4,FE26,Infill,BKSND
+FTFE26RA406BS,"40""x6' Fortress FE26 Rail Axis Horizontal Black Sand",53840708,40,33,FE26,Infill,BKSND
+FTFE26RA408BS,"40""x8' Fortress FE26 Rail Axis Horizontal Black Sand",53840948,40,40.7,FE26,Infill,BKSND
+FTFE26RAA346BS,"34""x6' Fortress FE26 Rail Axis Horizontal ADJ Black Sand",53034748,40,33,FE26,Infill,BKSND
+FTFE26RAA348BS,"34""x8' Fortress FE26 Rail Axis Horizontal ADJ Black Sand",53034948,40,37.4,FE26,Infill,BKSND
+FTFE26RAA406BS,"40""x6' Fortress FE26 Rail Axis Horizontal ADJ Black Sand",53040748,40,35.2,FE26,Infill,BKSND
+FTFE26RAA408BS,"40""x8' Fortress FE26 Rail Axis Horizontal ADJ Black Sand",53040948,40,41.8,FE26,Infill,BKSND
+FTFE26RT346ABZ,"34""x6' Fortress FE26 Rail Traditional Antique Bronze",53134706,50,21.267225,FE26,Infill,ABZ
+FTFE26RT346BS,"34""x6' Fortress FE26 Rail Traditional Black Sand",53134708,50,21.267225,FE26,Infill,BKSND
+FTFE26RT346GB,"34""x6' Fortress FE26 Rail Traditional Gloss Black",640018,50,21.267225,FE26,Infill,GBLK
+FTFE26RT348ABZ,"34""x8' Fortress FE26 Rail Traditional Antique Bronze",53134946,50,28.224,FE26,Infill,ABZ
+FTFE26RT348BS,"34""x8' Fortress FE26 Rail Traditional Black Sand",53134948,50,28.224,FE26,Infill,BKSND
+FTFE26RT348GB,"34""x8' Fortress FE26 Rail Traditional Gloss Black",640016,50,28.224,FE26,Infill,GBLK
+FTFE26RT386ABZ,"38""x6' Fortress Fe26 Rail Traditional Antique Bronze",900170-ABZ,50,24.10065,FE26,Infill,ABZ
+FTFE26RT386BS,"38""x6' Fortress FE26 Rail Traditional Black Sand",53138708,50,24.10065,FE26,Infill,BKSND
+FTFE26RT386GB,"38""x6' Fortress FE26 Rail Traditional Gloss Black",900170,50,24.10065,FE26,Infill,GBLK
+FTFE26RT388ABZ,"38""x8' Fortress Fe26 Rail Traditional Antique Bronze",640009-ABZ,50,29.0178,FE26,Infill,ABZ
+FTFE26RT388BS,"38""x8' Fortress FE26 Rail Traditional Black Sand",53138948,50,29.0178,FE26,Infill,BKSND
+FTFE26RT388GB,"38""x8' Fortress FE26 Rail Traditional Gloss Black",640009,50,29.0178,FE26,Infill,GBLK
+FTFE26RT406BS,"40""x6' Fortress FE26 Rail Traditional Black Sand",53140708,50,25.3575,FE26,Infill,BKSND
+FTFE26RT408BS,"40""x8' Fortress FE26 Rail Traditional Black Sand",53140948,50,30.53925,FE26,Infill,BKSND
+FTFE26RTA328ABZ,"32""x8' Fortress Fe26 Rail Traditional ADJ Antique Bronze",650401-ABZ,50,29.7675,FE26,Infill,ABZ
+FTFE26RTA328BS,"32""x8' Fortress FE26 Rail Traditional ADJ Black Sand",53232948,50,29.7675,FE26,Infill,BKSND
+FTFE26RTA328GB,"32""x8' Fortress FE26 Rail Traditional ADJ Gloss Black",650401,50,29.7675,FE26,Infill,GBLK
+FTFE26RTA346BS,"34""x6' Fortress FE26 Rail Traditional ADJ Black Sand",53234698,50,22.491,FE26,Infill,BKSND
+FTFE26RTA348BS,"34""x8' Fortress FE26 Rail Traditional ADJ Black Sand",53234948,50,31.6197,FE26,Infill,BKSND
+FTFE26RTA388ABZ,"38""x8' Fortress Fe26 Rail Traditional ADJ Antique Bronze",900251-ABZ,50,35.3241,FE26,Infill,ABZ
+FTFE26RTA388BS,"38""x8' Fortress FE26 Rail Traditional ADJ Black Sand",53238948,50,35.3241,FE26,Infill,BKSND
+FTFE26RTA388GB,"38""x8' Fortress FE26 Rail Traditional ADJ Gloss Black",900251,50,29.23,FE26,Infill,GBLK
+FTFE26RTA406BS,"40""x6' Fortress FE26 Rail Traditional ADJ Black Sand",53240698,50,26.68,FE26,Infill,BKSND
+FTFE26SHBABZ,Fortress Fe26 Square Handrail BRKT Antique Bronze,53500536,100,0.4851,FE26,Fittings,ABZ
+FTFE26SHBBS,Fortress Fe26 Square Handrail BRKT Black Sand,53500538,100,0.4851,FE26,Fittings,BKSND
+FTFE26SHBGB,Fortress Fe26 Square Handrail BRKT Gloss Black,650055,100,0.26,FE26,Fittings,
+FTFE26SHRABZ,93.5 Fortress Fe26 Square Handrail Antique Bronze,53500936,2,9.261,FE26,Rail,ABZ
+FTFE26SHRBS,"93.5"" Fortress Fe26 Square Handrail Black Sand",53500938,2,9.261,FE26,Rail,BKSND
+FTFE26SHRGB,93.5 Fortress Fe26 Square Handrail Gloss Black,650445,2,9.261,FE26,Rail,GBLK
+FTFE26SRABZ,Fortress Fe26 Square Return Antique Bronze,53500836,2,3.44,FE26,Fittings,ABZ
+FTFE26SRBS,Fortress Fe26 Square Return Black Sand,53500838,2,2.205,FE26,Fittings,BKSND
+FTFE26SRGB,Fortress Fe26 Square Return Gloss Black,650446,2,2.205,FE26,Fittings,
+FTFE26SRP2ABZ,"1.25"" Fortress Fe26 Square Rake Plug Antique Bronze",53500736,10,0.561,FE26,Hardware,ABZ
+FTFE26SRP2BS,"1.25"" Fortress Fe26 Square Rake Plug Black Sand",53500738,10,0.55125,FE26,Hardware,BKSND
+FTFE26SRP2GB,"1.25"" Fortress Fe26 Square Rake Plug Gloss Black",650442,10,0.53,FE26,Hardware,
+FTFE26SRPABZ,"1"" Fortress Fe26 Square Rake Plug Antique Bronze",53500636,10,0.44,FE26,Hardware,ABZ
+FTFE26SRPBS,"1"" Fortress Fe26 Square Rake Plug Black Sand",53500638,10,0.44,FE26,Hardware,BKSND
+FTFE26SRPGB,"1"" Fortress Fe26 Square Rake Plug Gloss Black",650440,10,0.37,FE26,Hardware,
+FTFE26VSCR346BS,"34""x6' Fortress V-Series Rail CR-Vertical Black Sand",57134608,30,40.3956,Cable Rail,Infill,BKSND
+FTFE26VSCR348BS,"34""x8' Fortress V-Series Rail CR-Vertical Black Sand",57134808,30,45.0261,Cable Rail,Infill,BKSND
+FTFE26VSCR406BS,"40""x6' Fortress V-Series Rail CR-Vertical Black Sand",57140608,30,42.71085,Cable Rail,Infill,BKSND
+FTFE26VSCR408BS,"40""x8' Fortress V-Series Rail CR-Vertical Black Sand",57140808,30,51.97185,Cable Rail,Infill,BKSND
+FTFE26VSCR40GBS,"40""x34.5"" Fortress V-Series Gate CR-Vertical Black Sand",57540888,1,40.8807,Cable Rail,Gate,
+FTFE26VSCRISBS,Fortress V-Series CR-Vertical I-Support Black Sand,57504148,25,0.59535,Cable Rail,Fittings,BKSND
+FTFE26VSCRISSBS,Fortress V-Series CR-Vertical I-Support Stair Black Sand,57505148,25,1.83015,Cable Rail,Fittings,BKSND
+FTFE26VSCRS348BS,"34""x8' Fortress V-Series CR-Vertical Stair Black Sand",57234808,30,49.6713,Cable Rail,Infill,BKSND
+FTFMBIC2ABZ,"2"" Fortress FM Inside Corner BRKT Antique Bronze",53502026,5,2.53,Fascia Mount,Fittings,ABZ
+FTFMBIC2BS,"2"" Fortress FM Inside Corner BRKT Black Sand",53502028,5,3.24135,Fascia Mount,Fittings,BKSND
+FTFMBIC2GB  ,"2"" Fortress FM Inside Corner BRKT Gloss Black",53502020,5,2.53,Fascia Mount,Fittings,GBLK
+FTFMBIC3ABZ,"3"" Fortress FM Inside Corner BRKT Antique Bronze",53503026,5,4.95,Fascia Mount,Fittings,ABZ
+FTFMBIC3BS,"3"" Fortress FM Inside Corner BRKT Black Sand",53503028,5,7.4088,Fascia Mount,Fittings,BKSND
+FTFMBIC3GB  ,"3"" Fortress FM Inside Corner BRKT Gloss Black",53503020,5,4.95,Fascia Mount,Fittings,GBLK
+FTFMBIC3WHT,"3"" Fortress FM Inside Corner BRKT White",53503021,5,4.95,Fascia Mount,Fittings,WHT
+FTFMBOC2UABZ,"2"" Fortress FM Universal Outside Corner BRKT Antique Bronze",50502016,5,6.94575,Fascia Mount,Fittings,ABZ
+FTFMBOC2UBS,"2"" Fortress FM Universal Outside Corner BRKT Black Sand",50502018,5,6.94575,Fascia Mount,Fittings,BKSND
+FTFMBOC2UGB,"2"" Fortress FM Universal Outside Corner BRKT Gloss Black",50502010,5,6.94575,Fascia Mount,Fittings,GBLK
+FTFMBOC3UABZ,"3"" Fortress FM Universal Outside Corner BRKT Antique Bronze",50503016,5,7.4088,Fascia Mount,Fittings,ABZ
+FTFMBOC3UBS,"3"" Fortress FM Universal Outside Corner BRKT Black Sand",50503018,5,7.4088,Fascia Mount,Fittings,BKSND
+FTFMBOC3UGB,"3"" Fortress FM Universal Outside Corner BRKT Gloss Black",50503010,5,7.4088,Fascia Mount,Fittings,GBLK
+FTFMBOC3WHT,"3"" Fortress FM Outside Corner BRKT White",53503011,5,13.42845,Fascia Mount,Fittings,WHT
+FTFMBS2ABZ,"2"" Fortress FM Straight BRKT Antique Bronze",53502006,5,3.02085,Fascia Mount,Fittings,ABZ
+FTFMBS2BS,"2"" Fortress FM Straight BRKT Black Sand",53502008,5,3.02085,Fascia Mount,Fittings,BKSND
+FTFMBS2GB,"2"" Fortress FM Straight BRKT Gloss Black",53502000,5,3,Fascia Mount,Fittings,GBLK
+FTFMBS3ABZ,"3"" Fortress FM Straight BRKT Antique Bronze",53503006,5,6.9,Fascia Mount,Fittings,ABZ
+FTFMBS3BS,"3"" Fortress FM Straight BRKT Black Sand",53503008,5,6.94575,Fascia Mount,Fittings,BKSND
+FTFMBS3GB,"3"" Fortress FM Straight BRKT Gloss Black",53503000,5,6.94575,Fascia Mount,Fittings,GBLK
+FTFMBS3WHT,"3"" Fortress FM Straight BRKT White",53503001,5,6.94575,Fascia Mount,Fittings,WHT
+FTFMHBC4ABZ,Fortress FM Hex Bolt Cover (4pcs) Antique Bronze,53503116,25,0.13,Fascia Mount,Hardware,ABZ
+FTFMHBC4BS,Fortress FM Hex Bolt Cover (4pcs) Black Sand,53503118,25,0.13,Fascia Mount,Hardware,BKSND
+FTFMHBC4GB,Fortress FM Hex Bolt Cover (4pcs) Gloss Black,53503110,25,0.13,Fascia Mount,Hardware,GBLK
+FTFMHBC4WHT,Fortress FM Hex Bolt Cover (4pcs) White,53503111,25,0.13,Fascia Mount,Hardware,WHT
+FTFMIS3BS,"3"" Fortress FM I-Support Attachment Black Sand",53503038,25,0.5,Fascia Mount,Fittings,BKSND
+FTFMIS3GB,"3"" Fortress FM I-Support Attachment Gloss Black",53503030,25,0.5,Fascia Mount,Fittings,GBLK
+FTFMIS3WHT,"3"" Fortress FM I-Support Attachment White",53503031,25,0.5,Fascia Mount,Hardware,WHT
+FTGDR24,"24"" Fortress Gate Drop Rod",650197,10,1.5,FE26,Gate,
+FTGKHW,Fortress Gate Kit #2 Hardware (Latch/Hinges/Fasteners),650084,20,1.5,FE26,Hardware,
+FTIS2ABZ,"2"" Fortress I-Support Antique Bronze",55520000,25,0.0992079,FE26,Fittings,GBLK
+FTIS2BS,"2"" Fortress I-Support Black Sand",55520006,25,0.0992079,FE26,Fittings,ABZ
+FTIS2GB,"2"" Fortress I-Support Gloss Black",55520008,25,0.0992079,FE26,Fittings,BKSND
+FTIS3BS,"3"" Fortress I-Support Black Sand",55535000,25,0.48,AL13 PLUS,Fittings,GBLK
+FTIS3GB,"3"" Fortress I-Support Gloss Black",55535001,25,0.19845,AL13 PLUS,Fittings,WHT
+FTIS3WHT,"3"" Fortress I-Support White",55535008,25,0.19845,AL13 PLUS,Fittings,BKSND
+FTPC1NGB,"1.25"" Fortress Nylon Post Cap Gloss Black",650447,200,0.003528,FE26,Cap,
+FTPC2NGB,"2"" Fortress Nylon Post Cap Gloss Black",640352,200,0.005292,FE26,Cap,GBLK
+FTPC3NFGB,"3"" Fortress Nylon Post Cap Fascia Application Gloss Black",59500032,100,0.01,FE26,Cap,
+FTPC3NGB,"3"" Fortress Nylon Post Cap Gloss Black",640403,100,0.315,FE26,Cap,GBLK
+FTPVGB345,"34"" Fortress PV Glass Balusters CLR (5pcs)",660530,3,18.41175,Pure View,Glass,
+FTPVGB405,"40"" Fortress PV Glass Balusters CLR (5pcs)",660540,3,25.4457,Pure View,Glass,
+FTPVMC10,"1.5"" Fortress PV Mounting Clips (10pcs)",660680,25,0.5292,Pure View,Glass,
+FTPVSL,Fortress PV Shoe-Level (10pcs),660685,20,1.323,Pure View,Glass,
+FTPVSS,Fortress PV Shoe-Stair (10pcs),660687,20,1.75,Pure View,Glass,
+FTSC75100ABZ,".75"" Fortress T25 Screw (100pcs) Antique Bronze",661213,1,0.9453125,Hardware,Hardware,ABZ
+FTSC75100BS,".75"" Fortress T25 Screw (100pcs) Black Sand",661214,1,0.9453125,Hardware,Hardware,BKSND
+FTSC75100GB,".75"" Fortress T25 Screw (100pcs) Gloss Black",661212,1,0.9453125,Hardware,Hardware,GBLK
+FTSC75100WHT,".75"" Fortress T25 Screw (100pcs) White",661215,1,0.9453125,Hardware,Hardware,WHT
+FTSC758ABZ,".75"" Fortress T25 Screw (8pcs) Antique Bronze",661218,50,0.06875,Hardware,Hardware,ABZ
+FTSC758BS,".75"" Fortress T25 Screw (8pcs) Black Sand",661219,50,0.06875,Hardware,Hardware,BKSND
+FTSC758GB,".75"" Fortress T25 Screw (8pcs) Gloss Black",661216,100,0.06875,Hardware,Hardware,GBLK
+FTSC758WHT,".75"" Fortress T25 Screw (8pcs) White",661217,50,0.06875,Hardware,Hardware,WHT
+FTTUPAABZ,6oz Fortress Touch Up Aerosol Antique Bronze,660376,12,1.23,Hardware,Touch Up Paint,ABZ
+FTTUPABS,6oz Fortress Touch Up Aerosol Black Sand,183280601,20,0.54,Hardware,Touch Up Paint,BKSND
+FTTUPABZ,Fortress Touch Up Pen Set Antique Bronze,660366,54,0.05,Hardware,Touch Up Paint,ABZ
+FTTUPAGB,6oz Fortress Touch Up Aerosol Gloss Black,660370,20,0.54,Hardware,Touch Up Paint,GBLK
+FTTUPAWHT,6oz Fortress Touch Up Aerosol White,660371,20,0.54,Hardware,Touch Up Paint,WHT
+FTTUPBS,Fortress Touch Up Pen Set Black Sand,660368,100,0.04,Hardware,Touch Up Paint,BKSND
+FTTUPGB,Fortress Touch Up Pen Set Gloss Black,660360,100,0.04,Hardware,Touch Up Paint,GBLK
+FTTUPWHT,Fortress Touch Up Pen Set White,660361,100,0.04,Hardware,Touch Up Paint,WHT
