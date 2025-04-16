@@ -52,11 +52,40 @@ def load_and_prepare_data(file, metadata_df):
     return df
 
 def force_rotate_units(df, interleave_mode=True):
-    # Placeholder container logic
-    container_df = df[['Product Code', 'Manufacturer SKU', 'Description', 'Unit Qty', 'Total Weight']].copy()
+    containers = []
+    container_weights = []
+    sku_units = []
+
+    for _, row in df.iterrows():
+        if pd.isna(row['Suggested Units']) or row['Suggested Units'] <= 0:
+            continue  # Skip invalid rows
+
+        try:
+            repeat_count = int(row['Suggested Units'])
+        except (ValueError, TypeError):
+            continue  # Skip rows with bad Suggested Units
+
+        for _ in range(repeat_count):
+            sku_units.append({
+                'Product Code': row['Product Code'],
+                'Manufacturer SKU': row.get('Manufacturer SKU', ''),
+                'Description': row.get('Description', ''),
+                'Category': row.get('category', 'Unknown'),
+                'Color': row.get('color', 'Unknown'),
+                'Unit Qty': row['Unit Qty'],
+                'Weight': row['Unit Qty'] * row['Weight per piece'],
+                'Top Off': False
+            })
+
+    # Dummy container logic (replace with your logic)
+    container_df = pd.DataFrame(sku_units)
+    if container_df.empty:
+        return pd.DataFrame(), []
+
     container_df['Container #'] = 1
-    container_weights = [container_df['Total Weight'].sum()]
-    return container_df, container_weights
+    total_weight = container_df['Weight'].sum()
+    return container_df, [total_weight]
+
 
 def updated_export_with_summary(summary_df, container_weights, interleave_mode, auto_topoff):
     output = BytesIO()
