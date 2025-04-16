@@ -56,10 +56,11 @@ def force_rotate_units(df, interleave_mode=True):
     container_weights = []
     sku_units = []
 
-    for _, row in df.iterrows():
-        if pd.isna(row['Suggested Units']) or row['Suggested Units'] <= 0:
-            continue  # Skip invalid rows
+    # Filter out any rows that are NaN, non-numeric, or non-positive
+    df = df[pd.to_numeric(df['Suggested Units'], errors='coerce').notna()]
+    df = df[df['Suggested Units'] > 0]
 
+    for _, row in df.iterrows():
         try:
             repeat_count = int(row['Suggested Units'])
         except (ValueError, TypeError):
@@ -77,15 +78,15 @@ def force_rotate_units(df, interleave_mode=True):
                 'Top Off': False
             })
 
-    # Dummy container logic (replace with your logic)
-    container_df = pd.DataFrame(sku_units)
-    if container_df.empty:
+    # If there's nothing valid, return empty results
+    if not sku_units:
         return pd.DataFrame(), []
 
+    # Temporary dummy assignment
+    container_df = pd.DataFrame(sku_units)
     container_df['Container #'] = 1
     total_weight = container_df['Weight'].sum()
     return container_df, [total_weight]
-
 
 def updated_export_with_summary(summary_df, container_weights, interleave_mode, auto_topoff):
     output = BytesIO()
